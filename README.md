@@ -1,13 +1,13 @@
-##🦷 Dental Website
+## 🦷 Dental Website
 
 A modern, responsive dental clinic website designed to showcase services, build trust, and provide a smooth user experience for patients. \
 
-##📌 Overview
+## 📌 Overview
 
 This project is a front-end dental website built to demonstrate clean UI, clear content structure, and user-friendly navigation. \
 It is suitable for dental clinics, private dentists, and healthcare landing pages. \
 
-##✨ Features
+## ✨ Features
 
 Responsive and mobile-friendly design \
 
@@ -21,7 +21,7 @@ Contact form or appointment section \
 
 Smooth navigation and accessible structure
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 HTML5 \
 
